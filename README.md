@@ -46,6 +46,3 @@ VLAN segmentation keeps QA devices, dev/art workstations, and admin machines off
 - `screenshots/`: the four verification screenshots above
 - the `.pkt` file: open it directly in Packet Tracer to see every device's live config yourself
 
-## Related
-
-I've also got a Home Network Troubleshooting Lab repo that's more hands-on hardware diagnostics. This one is more about the design and configuration side.
