@@ -1,6 +1,7 @@
 # Network Design for a Small Gaming Studio (Cisco Packet Tracer)
 
 I built this to practice designing and configuring a small business network from scratch: VLANs, inter-VLAN routing, DHCP, and access control, all done in Packet Tracer and verified with real CLI output instead of just claiming it works.
+**Companion project:** see also my [AWS cloud infrastructure project](https://github.com/SamuelAjewole/phoenixgear-cloud-project) — a cloud-based build covering VPC networking, IAM, and monitoring, alongside this on-prem VLAN project.
 
 ## The scenario
 
